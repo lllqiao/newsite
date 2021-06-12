@@ -2,3 +2,9 @@ header {
     background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
     background-attachment: fixed;
 }
+h1,p.lead {
+	text-align: center;
+}
+div.feature {
+	background-color: #FF9D6F!important;
+}
