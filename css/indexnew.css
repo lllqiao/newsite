@@ -8,3 +8,6 @@ h1,p.lead {
 div.feature {
 	background-color: #FF9D6F!important;
 }
+h2.h5 {
+	font-weight:bolder;
+}
