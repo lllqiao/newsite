@@ -7,3 +7,6 @@ h2 {
 ol {
     list-style-type: circle;
 }
+div#two {
+	text-align:left;
+}
