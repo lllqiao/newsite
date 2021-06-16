@@ -1,0 +1,22 @@
+div#yellow {
+	background-color: yellow!important;
+}
+h2 {
+	font-size:30px;
+}
+ol {
+    list-style-type: circle;
+}
+div#two {
+	text-align:left;
+}
+ul#information {
+	list-style:none;
+	line-height:50px;
+}
+ul#title {
+	line-height:40px;
+}
+section#scroll-target{
+	background-color: #f7f06c!important;
+}
