@@ -7,8 +7,8 @@ ol {
 div#two {
 	text-align:left;
 }
-div#green {
-	background-color: green!important;
+div#red {
+	background-color: red!important;
 }
 ul#information {
 	list-style:none;
@@ -18,5 +18,5 @@ ul#title {
 	line-height:40px;
 }
 section#scroll-target{
-	background-color: #CEDED3!important;
+	background-color: #FFECEC!important;
 }
