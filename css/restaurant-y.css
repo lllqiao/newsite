@@ -1,6 +1,3 @@
-div#yellow {
-	background-color: yellow!important;
-}
 h2 {
 	font-size:30px;
 }
@@ -10,6 +7,9 @@ ol {
 div#two {
 	text-align:left;
 }
+div#yellow {
+	background-color: yellow!important;
+}
 ul#information {
 	list-style:none;
 	line-height:50px;
@@ -18,5 +18,4 @@ ul#title {
 	line-height:40px;
 }
 section#scroll-target{
-	background-color: #f7f06c!important;
-}
+	background-color: #ebe79e!important;
