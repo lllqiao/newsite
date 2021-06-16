@@ -13,3 +13,13 @@ div#two {
 div#green {
 	background-color: green!important;
 }
+ul#information {
+	list-style:none;
+	line-height:50px;
+}
+ul#title {
+	line-height:40px;
+}
+section#scroll-target{
+	background-color: #F3DDDD!important;
+}
