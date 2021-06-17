@@ -8,7 +8,7 @@ div#two {
 	text-align:left;
 }
 div#blue {
-	background-color: blue!important;
+	background-color: #0080FF!important;
 }
 ul#information {
 	list-style:none;
@@ -18,4 +18,4 @@ ul#title {
 	line-height:40px;
 }
 section#scroll-target{
-	background-color: #9eb1eb!important;
+	background-color: #ECF5FF!important;
