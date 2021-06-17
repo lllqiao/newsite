@@ -11,3 +11,6 @@ div.feature {
 h2.h5 {
 	font-weight:bolder;
 }
+div#good {
+	background-image: url(../assets/back.png)!important
+}
