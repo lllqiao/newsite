@@ -17,3 +17,9 @@ div#good {
 nav {
 	background-color:#5A3D26!important;
 }
+div#hsu {
+	background-color:red!important;
+}
+span#storename {
+	font-weight:600!important;
+}
