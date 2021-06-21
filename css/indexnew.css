@@ -14,9 +14,7 @@ h2.h5 {
 div#good {
 	background-image: url(../assets/back.png)!important;
 }
-nav {
-	background-color:#5A3D26!important;
-}
+
 div#hsu {
 	background-color:red!important;
 }
@@ -28,4 +26,7 @@ span#storename {
 }
 #white {
 	color:white!important;
+}
+div#haha {
+	font-size:12px!important;
 }
