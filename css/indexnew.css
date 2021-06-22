@@ -30,6 +30,6 @@ span#storename {
 div#haha {
 	font-size:12px!important;
 }
-.row gx-5:hover{
+.col-lg-4 mb-5:hover{
 	transform:scale(1.2);
 }
