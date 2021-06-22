@@ -25,9 +25,9 @@ section#scroll-target{
 }
 .shadowbox {
   width: 15em;
-  border: 1px solid ##FFEEDD;
+  border: 1px solid #FFEEDD;
   box-shadow: 5px 5px 8px #444;
   padding: 8px 12px;
-  background-color:	##FFEEDD;
+  background-color:	#FFEEDD;
   border-radius:10px;
 }
