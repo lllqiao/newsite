@@ -28,6 +28,3 @@ section#scroll-target{
   background-color:	#CEDED3;
   border-radius:10px;
 }
-.col-lg-6{width:500px; height:350px;overflow:hidden;}
-.col-lg-6c img{transform:scale(1,1);transition: all 1s ease-out;}
-.col-lg-6 img:hover{transform:scale(1.2,1.2);}
