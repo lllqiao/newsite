@@ -30,3 +30,6 @@ span#storename {
 div#haha {
 	font-size:12px!important;
 }
+.card:hover{
+	transform:scale(1.2);
+}
