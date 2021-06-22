@@ -7,3 +7,9 @@ ul {
 ul#h {
 	list-style: none!important;
 }
+.card {
+	opacity:0.3;
+}
+.card:hover {
+	opacity:1;
+}
