@@ -13,3 +13,6 @@ ul#h {
 .card:hover {
 	opacity:1;
 }
+.card:hover {
+	background-color:#fffae8;
+}
