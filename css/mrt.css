@@ -4,3 +4,6 @@ span#title1, #title2, #title3 {
 ul {
 	list-style-type: circle!important;
 }
+ul#h {
+	list-style: none!important;
+}
